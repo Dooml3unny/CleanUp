@@ -4,7 +4,7 @@
 
 **Удалить объект**
 
-![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/Document 1 (2).png)
+![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/State6.png)
 
 **Просмотреть файл средствами ОС**
 
@@ -16,5 +16,5 @@
 
 **Найти объект по названю**
 
-![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/Document 1.png)
+![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/State7.png)
 
