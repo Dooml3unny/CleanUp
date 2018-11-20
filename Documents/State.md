@@ -16,5 +16,5 @@
 
 **Найти объект по названю**
 
-![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/State7.png)
+![alt text](https://github.com/Dooml3unny/CleanUp/blob/master/Documents/Document122.png)
 
